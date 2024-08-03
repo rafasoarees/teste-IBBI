@@ -1,0 +1,15 @@
+{
+  "name": "teste---iatecam",
+  "version": "1.0.0",
+  "description": "Teste IATECAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael Soares",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  }
+}
